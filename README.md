@@ -7,50 +7,52 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🔐 Cybersecurity student  
-- 💻 I love C++ for no reason
-- 🏗️ Building homelab setups (Unraid, Docker, VMs, networking)  
-- 🛠️ Love making tools, bots, and automation  
-- 🚀 Always learning, always breaking things  
+- 🔐 Cybersecurity student diving into networks, automation, and security tooling  
+- 💻 C++ enthusiast — I write C++ for fun and I'm not sure why  
+- 🏗️ Homelab nerd running Unraid, Docker stacks, VMs, and useful services  
+- 🤖 I build scripts, bots, servers, and tools just to see what I can break  
+- 📡 Interested in wireless tech: LoRa, SDR, signal projects  
+- 🚀 Always learning something new and pushing my skills forward  
+- 🔥 Currently building: networking tools, game projects, and automation frameworks  
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">📌 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/filthypotato"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/tylor-romine-5697aa278/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+Here are some of my favorite and most complete projects — the ones that represent my skills the best:
+
+### 🖧 **Chat Server (C++ Networking)**
+A custom TCP-based chat server showing my network programming fundamentals.  
+**Repo:** `Chat_Server`
+
+### 🔐 **Port Scanner**
+Lightweight C++ port scanner that performs fast TCP scanning and demonstrates socket work.  
+**Repo:** `PortScanner`
+
+### 💸 **Fambam Finance**
+A C++ program that tracks salaries, budgeting, and savings goals — built from scratch for my own family.  
+**Repo:** `FamBam_Finance`
+
+### 🎮 **Snake Game**
+A classic Snake implementation showing loops, collision, and interactive gameplay.  
+**Repo:** `Snake`
+
+### 🦾 **Bug Bounty Toolkit**
+Early-stage recon + enumeration toolkit built using automation scripts and console utilities.  
+**Repo:** `MalwareTestAttack` (rename recommended: `BugBountyToolkit` or `ReconSuite`)
+
+### 📦 **Mini Inventory System**
+Simple inventory tracker written in C++ to practice file handling and data structures.  
+**Repo:** `Mini-Inventory`
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Currently Working On</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,docker,git,github" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=vim,neovim,visualstudio,vscode" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🧩 Projects I'm Working On</h2>
-
-- 🔭 **Homelab Dashboard** — Docker + APIs    
-- 🛡️ **Bug Bounty Toolkit** — Recon + scanning tools  
-- 🎮 **C++ Game Dev** — SDL3 platformer, Task Manager
-- 📡 **LoRa / SDR Projects**  
+- 🔭 Homelab Dashboard (Docker, Plex, SAMBA, automation)  
+- 🎮 SDL3 platformer + other C++ game dev experiments  
+- 🛡️ Expanding my bug bounty toolkit  
+- 📡 LoRa + SDR signal projects  
 
 ---
 

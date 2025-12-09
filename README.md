@@ -45,18 +45,11 @@
 
 ---
 
-<h2 align="center">🔥 Streaks</h2>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=filthypotato&theme=tokyonight" />
-</p>
-
----
-
 <h2 align="center">🧩 Projects I'm Working On</h2>
 
 - 🔭 **Homelab Dashboard** — Docker + APIs    
 - 🛡️ **Bug Bounty Toolkit** — Recon + scanning tools  
-- 🎮 **C++ Game Dev** — SDL3 platformer
+- 🎮 **C++ Game Dev** — SDL3 platformer, Task Manager
 - 📡 **LoRa / SDR Projects**  
 
 ---

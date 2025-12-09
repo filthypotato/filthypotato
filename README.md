@@ -37,17 +37,11 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight" 
-    height="170"
-  />
+  <img height="170" src="https://github-readme-stats-five-omega-19.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-five-omega-19.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 

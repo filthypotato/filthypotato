@@ -41,13 +41,14 @@
 <p align="center">
   <img 
     height="170"
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight&border_radius=12" 
+    src="https://github-readme-stats-fork-filthypotato.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight&border_radius=12" 
   />
   <img 
     height="170"
-    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight&border_radius=12" 
+    src="https://github-readme-stats-fork-filthypotato.vercel.app/api/top-langs/?username=filthypotato&layout=compact&langs_count=6&theme=tokyonight&border_radius=12" 
   />
 </p>
+
 
 
 ---

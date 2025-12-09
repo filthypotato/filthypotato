@@ -36,11 +36,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats-five-omega-19.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-five-omega-19.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight" />
-</p>
+![Metrics](https://metrics.lecoq.io/filthypotato?template=classic&config.timezone=America%2FChicago)
+
 
 
 ---

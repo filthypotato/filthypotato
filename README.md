@@ -40,11 +40,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight&border_radius=12" 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=filthypotato&layout=compact&langs_count=6&theme=tokyonight&border_radius=12" 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=filthypotato&layout=compact&theme=tokyonight" 
     height="170"
   />
 </p>

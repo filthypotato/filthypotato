@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Cybersecurity Student | 💻 Developer | 🏗 Homelab Nerd</h1>
+<h1 align="center">🔒 Cybersecurity Student | 💻 Developer | 🏗 Homelab Nerd</h1>
 
 <p align="center">
   Always building something — tools, experiments, servers, scripts, automations.<br/>
@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 About Me
+## 🥔 About Me
 
 - 🎓 Cybersecurity student exploring networks, automation, and secure systems  
 - 💻 C++ enjoyer — I write C++ for fun and I’m not sure why  
 - 🏗 Homelab nerd running Unraid, Docker stacks, VMs, and self-hosted services  
 - 🤖 I build scripts, bots, servers, and automation tools  
-- 📡 Interested in LoRa, SDR, signals, and hardware tinkering  
+- 📡 Interested in LoRa, SDR, signals, Flipper Zero, and hardware tinkering  
 - 🔍 Working toward cybersecurity engineering  
 - 🧪 Always experimenting, learning, and improving  
 

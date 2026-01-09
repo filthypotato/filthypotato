@@ -38,8 +38,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="170"
     src="https://github-readme-stats-two-ruddy-72.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight&hide_border=false"

@@ -40,8 +40,9 @@
 
 <p align="center">
   <img height="170"
-    src="https://github-readme-stats-two-ruddy-72.vercel.app/api?username=filthypotato&show_icons=true&theme=tokyonight&hide_border=false"
-  />
+  src="https://github-readme-stats-two-ruddy-72.vercel.app/api?username=filthypotato&show_icons=true&theme=solarized-dark&hide_border=false&v=2026"
+/>
+
   <img height="170"
     src="https://github-readme-stats-two-ruddy-72.vercel.app/api/top-langs/?username=filthypotato&theme=tokyonight&hide_border=false&layout=compact"
   />

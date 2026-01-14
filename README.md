@@ -10,7 +10,7 @@
 ## 🥔 About Me
 
 -  Cybersecurity student exploring networks, automation, and secure systems  
--  C++ enjoyer — I write C++ for fun and I’m not sure why  
+-  C++ enjoyer - I write C++ for fun and I’m not sure why  
 -  Homelab nerd running Unraid, Docker stacks, VMs, and self-hosted services  
 -  I build scripts, bots, servers, and automation tools  
 -  Interested in LoRa, SDR, signals, Flipper Zero, and hardware tinkering  
@@ -24,8 +24,8 @@
 <p align="center">
    <strong>Networking projects</strong> - sockets, chat servers, scanners<br/>
    <strong>Cybersecurity tooling</strong> - recon, enumeration, automation<br/>
-   <strong>Utility apps</strong> — budgeting tools, inventory systems, file utilities<br/>
-   <strong>Game experiments</strong> - SDL3, console games, algorithm practice<br/>
+   <strong>Utility apps</strong> - budgeting tools, inventory systems, file utilities<br/>
+   <strong>Game experiments</strong> - SDL3, console games, algorithm practice, Unity, Unreal Engine 5<br/>
    <strong>Homelab automation</strong> - Docker, dashboards, scripts
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">🔒 Cybersecurity Student | 💻 Developer | 🏗 Homelab Nerd</h1>
 
 <p align="center">
-  Always building something — tools, experiments, servers, scripts, automations.<br/>
+  Always building something - tools, experiments, servers, scripts, automations.<br/>
   Learning by breaking stuff and fixing it again.
 </p>
 
@@ -22,16 +22,16 @@
 ## 🛠 What I Build
 
 <p align="center">
-   <strong>Networking projects</strong> — sockets, chat servers, scanners<br/>
-   <strong>Cybersecurity tooling</strong> — recon, enumeration, automation<br/>
+   <strong>Networking projects</strong> - sockets, chat servers, scanners<br/>
+   <strong>Cybersecurity tooling</strong> - recon, enumeration, automation<br/>
    <strong>Utility apps</strong> — budgeting tools, inventory systems, file utilities<br/>
-   <strong>Game experiments</strong> — SDL3, console games, algorithm practice<br/>
-   <strong>Homelab automation</strong> — Docker, dashboards, scripts
+   <strong>Game experiments</strong> - SDL3, console games, algorithm practice<br/>
+   <strong>Homelab automation</strong> - Docker, dashboards, scripts
 </p>
 
 <p align="center">
   Most of my repos are learning projects, experiments, or ideas I wanted to try.<br/>
-  I'm always adding something new — feel free to explore my profile.
+  I'm always adding something new - feel free to explore my profile.
 </p>
 
 ---

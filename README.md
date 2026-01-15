@@ -22,16 +22,16 @@
 ## What I Build
 
 <p>
-  <strong>Networking projects</strong> — sockets, chat servers, scanners<br/>
-  <strong>Security tooling</strong> — recon, enumeration, automation helpers<br/>
-  <strong>Utility apps</strong> — small tools that solve problems I actually have<br/>
-  <strong>Game experiments</strong> — SDL3, console games, algorithms, Unity, UE5<br/>
-  <strong>Homelab automation</strong> — Docker, dashboards, scripts, monitoring
+  <strong>Networking projects</strong> - sockets, chat servers, scanners<br/>
+  <strong>Security tooling</strong> - recon, enumeration, automation helpers<br/>
+  <strong>Utility apps</strong> - small tools that solve problems I actually have<br/>
+  <strong>Game experiments</strong> - SDL3, console games, algorithms, Unity, UE5<br/>
+  <strong>Homelab automation</strong> - Docker, dashboards, scripts, monitoring
 </p>
 
 <p>
   Most of my repos are learning projects or experiments.<br/>
-  Some are rough, some are broken, all of them taught me something.
+  Some are rough, some are broken, some not finished, but all of them taught me something.
 </p>
 
 ---

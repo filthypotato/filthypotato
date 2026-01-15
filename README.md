@@ -7,7 +7,7 @@
 
 ---
 
-## 🥔 About Me
+## About Me
 
 - Cybersecurity student focused on networks, automation, and secure systems  
 - I write C++ for fun, which probably says something about me  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 What I Build
+## What I Build
 
 <p align="center">
   <strong>Networking projects</strong> — sockets, chat servers, scanners<br/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170"
@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,docker,git,github,vscode,neovim,cloudflare,aws" />

@@ -1,7 +1,7 @@
 <h1 align="center">Cybersecurity Student - Developer - Homelab Nerd</h1>
 
 <p align="center">
-  I’m usually building something — or breaking it and fixing it again.<br/>
+  I’m usually building something - or breaking it and fixing it again.<br/>
   Tools, servers, scripts, experiments, automations… repeat.
 </p>
 

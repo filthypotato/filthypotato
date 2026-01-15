@@ -57,16 +57,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/filthypotato"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/tylor-romine-5697aa278/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:filthypotatoxx@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
 <p align="center">
   ⭐ If you find something useful here, feel free to star it.<br/>
   I’m always building the next thing anyway.

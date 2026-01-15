@@ -1,4 +1,4 @@
-<h1 align="center">🔒 Cybersecurity Student · 💻 Developer · 🏗 Homelab Nerd</h1>
+<h1 align="center">Cybersecurity Student - Developer - Homelab Nerd</h1>
 
 <p align="center">
   I’m usually building something — or breaking it and fixing it again.<br/>

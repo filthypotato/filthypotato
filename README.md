@@ -11,6 +11,7 @@
 
 - Cybersecurity student focused on networks, automation, and secure systems  
 - I write C++ for fun, which probably says something about me  
+- Learning Pyton for automation to level up that tool belt 
 - Homelab addict running Unraid, Docker stacks, VMs, and too many services  
 - I like building things from scratch just to understand how they work  
 - Interested in LoRa, SDR, signals, Flipper Zero, and hardware tinkering  

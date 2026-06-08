@@ -53,7 +53,7 @@
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,docker,git,github,vscode,neovim,cloudflare,csharp,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,docker,git,github,vscode,neovim,cloudflare,c#,aws" />
 </p>
 
 ---
